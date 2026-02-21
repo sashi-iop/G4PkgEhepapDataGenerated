@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_cmsmodel_FILE /Users/sashibhusansahoo/Desktop/cmsModel/build/cmsmodel)
+set(__QT_DEPLOY_TARGET_cmsmodel_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_ecal_hcal_digitisation_FILE /Users/sashibhusansahoo/Desktop/cmsModel/build/ecal_hcal_digitisation)
+set(__QT_DEPLOY_TARGET_ecal_hcal_digitisation_TYPE EXECUTABLE)
